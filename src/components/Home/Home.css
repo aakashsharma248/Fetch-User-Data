@@ -1,0 +1,40 @@
+.home-container {
+    max-width: 600px;
+    margin: 0 auto; /* Center horizontally */
+    padding: 20px;
+  }
+  
+  .home-container h1 {
+    font-size: 24px;
+    margin-bottom: 35px;
+    text-align: center; /* Center the text */
+  }
+  
+  .search-form {
+    margin-top: 20px;
+    text-align: center; 
+  }
+  
+  .search-form input[type="text"] {
+    width: 60%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 25px;
+  }
+  
+  .search-form button {
+    padding: 15px 20px;
+    background-color: #59ba82;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 64%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+  
+  
