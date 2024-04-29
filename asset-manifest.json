@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aakashsharma248/Fetch-User-Data/static/css/main.512ac9d6.css",
+    "main.js": "/aakashsharma248/Fetch-User-Data/static/js/main.9cfadbb7.js",
+    "index.html": "/aakashsharma248/Fetch-User-Data/index.html",
+    "main.512ac9d6.css.map": "/aakashsharma248/Fetch-User-Data/static/css/main.512ac9d6.css.map",
+    "main.9cfadbb7.js.map": "/aakashsharma248/Fetch-User-Data/static/js/main.9cfadbb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.512ac9d6.css",
+    "static/js/main.9cfadbb7.js"
+  ]
+}
